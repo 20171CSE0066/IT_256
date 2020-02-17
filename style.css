@@ -1,0 +1,30 @@
+body{ 
+        background-image:url("/home/6CSE1/cse0066/images.jpeg");
+        background-repeat:repeat;
+         }
+h1{
+        color:maroon;
+        margin-left:40px;
+        }
+p{
+     color:red;
+     margin-left:40px;
+     direction:rtl;
+     letter-spacing:5px;
+     word-spacing:5px;
+     text-indent:1cm;
+     text-align:right;
+}
+p1{
+text-align:center;
+}
+p.new
+{
+margin-left:40px;
+     direction:rtl;
+     letter-spacing:5px;
+     word-spacing:5px;
+
+}
+
+  
